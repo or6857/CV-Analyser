@@ -19,6 +19,7 @@ But more often than not, all resumes follow different formats. So for them, NLP 
 Given a dataset, the data can be analyzed using machine learning, for future predictions. The analysis technique chosen is Logistic Regression. 
 
 **Future Enhancemnts:**
+
 Resume Elimination based on company requirement.
 
 AI based interviews based on resumes.
